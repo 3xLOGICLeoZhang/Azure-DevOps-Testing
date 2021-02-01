@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Azure DevOps Testing" />
+    <HelloWorld msg="Change Home Page" />
   </div>
 </template>
 
